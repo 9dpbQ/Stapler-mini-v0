@@ -1,0 +1,10 @@
+/* 
+日本語
+ そのうちやります。
+*/
+"selectedDetailView_select" = "キーボードのキーを選択してください。";
+"selectedDetailView_enableTapHold" = "Tap Hold";
+
+"addPresetView_selectLayout" = "キーボードレイアウトを選択してください";
+"addPresetView_cansel" = "キャンセル";
+"addPresetView_createPreset" = "プリセットを作る";
