@@ -62,7 +62,7 @@ BackSpaceやDeleteForwardなど、実用上長押しもするキーをタップ�
 ### 5.出力したファイルをKarabiner-Elementsで有効化する
 まず出力した時に開いたFinderのウィンドウから、**⌘T**か**⌘N**で新しくタブかウィンドウを開いて**⌘⇧G**で以下のパスを開きます。
 ```
-~/.config/karabiner/assets/complex_modificationsa
+~/.config/karabiner/assets/complex_modifications
 ```
 出力したjsonファイルをcomplex_modificationsのフォルダ内にドラッグ&ドロップします。
 
