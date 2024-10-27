@@ -12,3 +12,5 @@ Stapler-mini-v0は[Karabiner-Elements](https://karabiner-elements.pqrs.org/)で�
 
 ## 使い方
 (工事中)
+
+[Discordコミュニティ](https://discord.gg/yVhZfsE2zS)
