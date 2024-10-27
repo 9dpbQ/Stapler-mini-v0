@@ -21,6 +21,9 @@ stapler-mini-v0では8枚のレイヤーを設定することができます。
 [Karabiner-Elements](https://karabiner-elements.pqrs.org/)からダウンロードして、立ち上げて案内の通りに権限を与えます。SimpleModificationで試しに何か書き換えられたら準備完了です。
 
 ### 1.本アプリをダウンロードする
+[とりあえず公開版](https://github.com/9dpbQ/Stapler-mini-v0/releases/tag/%E3%81%A8%E3%82%8A%E3%81%82%E3%81%88%E3%81%9A%E5%85%AC%E9%96%8B%E7%89%88)
+<img width="1176" alt="ss 2024-10-28 2 55 34" src="https://github.com/user-attachments/assets/f0527e06-c41b-45db-b542-0ecf5d4d21fb">
+
 ### 2.アプリを立ち上げたらPresetを追加する
 とりあえず公開版ではMacBookの本体キーボードのレイアウト3種類(US ,UK, JIS)から選ぶことができます。
 
