@@ -21,6 +21,7 @@ stapler-mini-v0では8枚のレイヤーを設定することができます。
 [Karabiner-Elements](https://karabiner-elements.pqrs.org/)からダウンロードして、立ち上げて案内の通りに権限を与えます。SimpleModificationで試しに何か書き換えられたら準備完了です。
 
 ### 1.本アプリをダウンロードする
+<img width="1107" alt="ss 2024-10-29 22 31 49" src="https://github.com/user-attachments/assets/f563d00b-76de-4307-824a-e3279c20f78d">
 <img width="1176" alt="ss 2024-10-28 2 55 34" src="https://github.com/user-attachments/assets/f0527e06-c41b-45db-b542-0ecf5d4d21fb">
 
 ### 2.アプリを立ち上げたらPresetを追加する
@@ -34,7 +35,7 @@ stapler-mini-v0では8枚のレイヤーを設定することができます。
 また外部キーボードはVendorIDとProductIDをテキストフィールドに入力することでカスタマイズが可能です。
 本体キーボードともともとのキーコードが一部異なるキーボードを使っている場合、そのキーの書き換えはそのままだとうまくいきません(JISだったらControl↔️Caps Lockとかよくあるパターン)。UserCustomJSONから"from"のキーコードを変更することで一応はカスタマイズが可能です。
 
-#### タップホールドをカスタムする場合
+#### タップホールドをカスタムする
 右側のサイドバーか、キーを**ダブルクリック**してポップアップから、**EnableTapHold**をトグルします。TapとHold二つのキーに対してドラッグ&ドロップをしてカスタムできます。
 この時タップホールドを有効にしたのにどちらかが空の状態のままだとjsonファイル出力時にエラーが発生するので注意してください。
 
@@ -55,6 +56,22 @@ stapler-mini-v0では8枚のレイヤーを設定することができます。
 BackSpaceやDeleteForwardなど、実用上長押しもするキーをタップに入れるときに推奨されるタイプです。
 
 ※仕組み上、偶数打目のホールドがタップの長押しになる
+
+#### レイヤーをカスタムする
+Specialタブにある色付き数字キーがレイヤー遷移キーです。これをドロップしたキーが押されている間レイヤーのキーを出力するようになります。
+
+
+<img width="616" alt="image" src="https://github.com/user-attachments/assets/01c0be0b-063f-42c0-a93d-3dcf79ff6feb">
+
+
+例えばこのようにすれば**かな**のタップで **かな**、**かな**のホールドで**レイヤー3**に遷移します。
+
+<img width="363" alt="image" src="https://github.com/user-attachments/assets/4ab0c286-f860-41d8-b36d-9423df68ed99">
+
+遷移キーを設定したらそのレイヤーマップにキーをドラッグ&ドロップしてカスタマイズしましょう。
+マウスカーソルの移動や、スクロールなどを行えるレイヤーの例です。
+<img width="980" alt="image" src="https://github.com/user-attachments/assets/f71c40ec-8d17-44a5-9970-3d7efc2aeaf1">
+
 
 ### 4.jsonファイルとして出力する
 右上の出力ボタンを押してPresetの概要を眺めてみましょう。壮観だなぁ〜！
