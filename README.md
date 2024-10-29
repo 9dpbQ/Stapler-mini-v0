@@ -15,7 +15,6 @@ stapler-mini-v0では8枚のレイヤーを設定することができます。
 反対にescapeやエンターは単打のような使い方しかしないキーなので、それらの長押しに好きな修飾キーのコンビネーションを入れたりもできます。
 
 ## 使い方
-動画URL(そのうち)
 
 ### 0.Karabiner-Elementsをダウンロードしておく
 [Karabiner-Elements](https://karabiner-elements.pqrs.org/)からダウンロードして、立ち上げて案内の通りに権限を与えます。SimpleModificationで試しに何か書き換えられたら準備完了です。
@@ -96,5 +95,6 @@ Karabiner-Elementsを開いてComplexModificationsタブからAdd predifined rul
 レイヤーは8枚あるのでそれなりに余裕を持って自分なりの作業環境を構築できるはずです。
 アプリ用のレイヤーを作ったり、数字入力用、記号入力用、カーソル用…と用途別に分けても覚えやすいかもしれません。
 画像出力も可能なので[PureRef](https://www.pureref.com/download.php)と組み合わせて常時画面上に表示しておくのが個人的にはおすすめです。
+また、[開発者が自分の設定を作ってる記事](https://note.com/9dpb/n/nf41952e3e799)もあります。アプリ別なコマンドを設定したり、ちょっと細かいところまで説明してるので参考にしてみてください。
 
 最強のプリセットが作れたら[Discordコミュニティ](https://discord.gg/yVhZfsE2zS)やXで自慢しよう！要望とかあれば頑張るかもしれない。
